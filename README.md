@@ -12,7 +12,7 @@ using regularisation in order to predict the actual value of the prospective pro
 Essentially, the company wants —
 
 * Which variables are significant in predicting the price of a house, and
-*How well those variables describe the price of a house.
+* How well those variables describe the price of a house.
 
 
 
